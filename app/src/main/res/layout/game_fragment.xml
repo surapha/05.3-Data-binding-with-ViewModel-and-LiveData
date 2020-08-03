@@ -18,11 +18,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
     <data>
-
         <variable
-            name="gameViewModel"
+            name="gameViewModelx"
             type="com.example.android.guesstheword.screens.game.GameViewModel" />
     </data>
+
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/game_layout"
